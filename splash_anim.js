@@ -1,4 +1,5 @@
 // Mikael Bjorkstam
+// @bjorkstam
 // 3/5/2011
 
 var SHAPES = [];
