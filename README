@@ -1,0 +1,7 @@
+Demo that uses a canvas to animate a bunch of circles that are automatically generated with random properties and then faded away.
+
+For settings, see splash_anim.js and the following objects:
+
+SETTINGS contains the generation and removal speeds (lower number is faster).
+
+The function createShape generates a shape with the specified properties.

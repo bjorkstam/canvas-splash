@@ -13,8 +13,8 @@ var createShape = function() {
 		radius : Math.floor(30+Math.random()*80),
 		x : Math.floor(Math.random()*document.width),
 		y : Math.floor(Math.random()*document.height),
-		r : Math.floor(255),
-		g : Math.floor(100),
+		r : 255,
+		g : 100,
 		b : Math.floor(Math.random()*255),
 		alpha: Math.round(30+Math.random()*70)/100,
 		fadeFactor : Math.floor(1+Math.random()*1)
